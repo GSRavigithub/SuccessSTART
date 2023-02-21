@@ -1,2 +1,2 @@
 # SuccessSTART
-The journey starts
+The journey begin
